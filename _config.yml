@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Leo Röhlke
+description:    "A homepage"
+url:            "https://leoroehlke.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Leo Röhlke
+#  url:          https://chester.how
+  email:        leo.roehlke@unibe.ch
 
 # Build settings
 markdown:       kramdown
